@@ -1,6 +1,6 @@
 # Why BookVideo2Pdf?
 
-Moreover, generating pdfs from Videos work also need attention. The idea of this project is to convert video of a book pages to selectable pdf pages using on-device machine learning technique. Idea will work as follows:
+Generating pdfs from Videos work also need attention. The idea of this project is to convert video of a book pages to selectable pdf pages using on-device machine learning technique. Idea will work as follows:
 
 1. Start **BookVideo2Pdf** application and start video recording of a book for which you need to create pdf pages
 2. Hold page from a corner and try to turn, application will detect using **on-device machine learning** that this page should be converted to Pdf page
